@@ -21,3 +21,4 @@ torchaudio
 torchvision
 tqdm
 tzdata
+ucimlrepo
